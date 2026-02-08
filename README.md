@@ -28,6 +28,8 @@ Execute a aplicação:Bashpython app.py
 A API estará disponível em http://127.0.0.1:5000.
 
 Método,Endpoint,Descrição
-GET,/api/menu,Retorna a lista completa de itens do cardápio.
-GET,/menu/<id>,Retorna os detalhes de um item específico baseado no ID.
+GET,/api/menu,
+Retorna a lista completa de itens do cardápio.
+GET,/menu/<id>,
+Retorna os detalhes de um item específico baseado no ID.
 
